@@ -3,15 +3,15 @@
 # Project-16 | Paytm Clone
 
 Hi there,
-I'm Wasit Ali and this is my 16th project on HTML and Tailwind CSS.
+I'm Wasit Ali and this is my 16th project and 1st project in HTML and Tailwind CSS.
 
 ## 🖥 Preview
 
-![](2022-10-14-17-59-06.png)
-![](2022-10-14-17-59-21.png)
-![](2022-10-14-17-59-40.png)
-![](2022-10-14-17-59-53.png)
-![](2022-10-14-18-00-10.png)
+![](./assests/2022-10-14-17-59-06.png)
+![](./assests/2022-10-14-17-59-21.png)
+![](./assests/2022-10-14-17-59-40.png)
+![](./assests/2022-10-14-17-59-53.png)
+![](./assests/2022-10-14-18-00-10.png)
 
 🚀 [Live Preview](https://jocular-cocada-075952.netlify.app/)
 
