@@ -7,11 +7,15 @@ I'm Wasit Ali and this is my 16th project and 1st project in HTML and Tailwind C
 
 ## 🖥 Preview
 
-![](./assests/2022-10-14-17-59-06.png)
-![](./assests/2022-10-14-17-59-21.png)
-![](./assests/2022-10-14-17-59-40.png)
-![](./assests/2022-10-14-17-59-53.png)
-![](./assests/2022-10-14-18-00-10.png)
+![](./assests/preview-1.png)
+
+![](./assests/preview-2.png)
+
+![](./assests/preview-3.png)
+
+![](./assests/preview-4.png)
+
+![](./assests/preview-5.png)
 
 🚀 [Live Preview](https://jocular-cocada-075952.netlify.app/)
 
