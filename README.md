@@ -17,7 +17,7 @@ I'm Wasit Ali and this is my 16th project and 1st project in HTML and Tailwind C
 
 ![](./assests/preview-5.png)
 
-🚀 [Live Preview](https://jocular-cocada-075952.netlify.app/)
+🚀 [Live Preview](https://paytm-clone-project-16.vercel.app/)
 
 ## 🛠️ What I have learned in this project?
 
